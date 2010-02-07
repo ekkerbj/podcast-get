@@ -65,6 +65,7 @@ sites = [
     "http://www.nofluffjuststuff.com/s/podcast/itunes.xml",
     "http://feeds.feedburner.com/Softballpodcasts",
     "http://media.ajaxian.com/",
+    "http://rss.conversationsnetwork.org/series/ieee.xml",
     "http://agiletoolkit.libsyn.com/rss",
     "http://feeds.feedburner.com/geeklunch",
     "http://feeds.feedburner.com/rubyshow",
