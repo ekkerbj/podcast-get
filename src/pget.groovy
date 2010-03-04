@@ -44,8 +44,10 @@ println "running, cached: " + downloadHistory.size()
 sites = [
     "http://podcasts.cstv.com/feeds/fantasyplaybook.xml",
     "http://podcasts.cstv.com/feeds/fantasyfootball.xml",
+    "http://feeds.feedburner.com/thedevshow",
     "http://feeds.feedburner.com/linuxoutlaws",
     "http://www.thelinuxlink.net/tllts/tllts.rss",
+    "http://changelogshow.com/105.rss",
     "http://feeds.feedburner.com/dailybreakfast",
     "http://blogs.sun.com/theplanetarium/feed/entries/atom",
     "http://feeds.wnyc.org/radiolab?utm_source=rss&utm_medium=hp&utm_campaign=radiolab",
